@@ -1,0 +1,16 @@
+ここでは、編集環境(VSCode)とGitHubの連携を行う
+前提として、VSCodeのインストールを完了していること
+インストール自体はGUIから行うことが可能であるため、説明は割愛する
+
+1.GitHub DesktopからVSCodeを認識する
+ 1-GitHub Desktopの「File」「Options…」を開く
+ 2-「Integrations」をクリックし、「External Editor」の項目に「Visual Studio Code」を選択する
+ 3-「Save」をクリックし保存する
+ 4-「Repository」「Open in Visual Studio Code」をクリックし、VSCodeを開く
+ 5-VSCodeにて「Do you trust the authors of the files in the folder?」のメッセージが表示されるため
+   「Yes,I trust the authors」をクリックする
+
+2.動作を確認する
+ 1-VSCode上で適当なファイルを編集、保存する
+ 2-GitHub Desktop上でファイルが編集されていることを確認する
+ 3-GitHub DesktopからファイルをPush操作(2.First_upload参照)を行い、変更が反映されているかを確認する
