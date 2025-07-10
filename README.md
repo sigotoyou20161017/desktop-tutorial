@@ -1,5 +1,16 @@
-# Welcome to GitHub Desktop!
+\# GitHub Desktop / VSCode セットアップ手順（初心者向け）
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+
+GitHubがよくわからない、自信がない、VSCodeとの連携ってどうやるの？  
+
+そんな人のための完全GUIセットアップガイドです。
+
+
+
+詳細はInstall配下のフォルダをご参照ください。
+
+
+
+この文章はChatGPTを用いて作成されています。
+
