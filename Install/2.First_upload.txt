@@ -1,7 +1,13 @@
 ここでは、GitHunDesktopを利用した、GitHubへの初回アップロード手順を解説する。
-試しに、適当なリポジトリフォルダ(GitHub管理下のフォルダ)を作成し、適当なファイル、今回はフォルダ「Install」及びファイル「1.Install_GitHubDesktop.txt」「2.First_upload.txt」「GitHubDesktopSetup-x64.exe」のアップロードを行う。
+試しに、適当なリポジトリフォルダ(GitHub管理下のフォルダ)を作成し、適当なファイル、今回はフォルダ「Install」及びファイル「1.Install_GitHubDesktop.txt」「2.First_upload.txt」のアップロードを行う。
 
-1.ローカルリポジトリフォルダの作成
+1.ローカルリポジトリフォルダの作成及び初回アップロード
  1-「Create a New Repository…」をクリック
  2-「Start tutorial」画面が表示されるため、「Continue」をクリック
  3-PCのユーザーフォルダ\ドキュメント配下に「GitHub」が、さらにその配下に「desktop-tutorial」が作成されるので、「Install」フォルダを移動する
+ 4-アプリ側でファイルやフォルダが表示されていることを確認し、「Summary(Required)」へ概要を入力したら、「Commit 2 Files to main」をクリック
+
+2.アップロード確認
+ 1-「https://github.com/」へアクセスし、「(ユーザー名)/desktop-tutorial」をクリック
+ 2-表示されるフォルダ(今回はinstall)をクリック
+ 3- 「1.Install_GitHubDesktop.txt」「2.First_upload.txt」が表示されていれば、アップロード完了。
