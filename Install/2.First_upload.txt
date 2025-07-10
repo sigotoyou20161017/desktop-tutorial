@@ -6,6 +6,7 @@
  2-「Start tutorial」画面が表示されるため、「Continue」をクリック
  3-PCのユーザーフォルダ\ドキュメント配下に「GitHub」が、さらにその配下に「desktop-tutorial」が作成されるので、「Install」フォルダを移動する
  4-アプリ側でファイルやフォルダが表示されていることを確認し、「Summary(Required)」へ概要を入力したら、「Commit 2 Files to main」をクリック
+ 5-「Push Origin」をクリック
 
 2.アップロード確認
  1-「https://github.com/」へアクセスし、「(ユーザー名)/desktop-tutorial」をクリック
